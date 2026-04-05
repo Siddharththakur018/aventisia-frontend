@@ -1,5 +1,5 @@
 import "./App.css";
-import Layout from "./Layout";
+import Layout from "./layout"
 import KnowledgeBase from "./modules/KnowledageBase";
 import Home from "./page/Home";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
